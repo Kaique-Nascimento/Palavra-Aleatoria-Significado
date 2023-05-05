@@ -8,4 +8,11 @@ Eu não tenho dicionário em casa (ou esconderam de mim), então fiz um código 
 >- HTML;
 >- CSS;
 >- Javascript;
->- APIs: https://api.dicionario-aberto.net/index.html, https://github.com/ThiagoNelsi/dicio-api
+>- APIs: Dicionário Aberto(https://api.dicionario-aberto.net/index.html) e Dicio-API(https://github.com/ThiagoNelsi/dicio-api)
+
+## Modo de usar
+![](API Palavra Aleatória/sample/sample.gif)
+
+1. Acesse a página (A palavra será carregada automaticamente e será mostrado o significado automaticamente);
+obs.: Caso a palavra não esteja cadastrada na API de significados, a página será recarregada automaticamente para procurar outra palavra.
+2. Caso queira saber sobre outra palavra, recarregue a página novamente.
