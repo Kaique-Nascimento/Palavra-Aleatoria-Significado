@@ -11,7 +11,7 @@ Eu não tenho dicionário em casa (ou esconderam de mim), então fiz um código 
 >- APIs: Dicionário Aberto(https://api.dicionario-aberto.net/index.html) e Dicio-API(https://github.com/ThiagoNelsi/dicio-api)
 
 ## Modo de usar
-![](API Palavra Aleatória/sample/sample.gif)
+![](API Palavra aleatória/sample/sample.gif)
 
 1. Acesse a página (A palavra será carregada automaticamente e será mostrado o significado automaticamente);
 obs.: Caso a palavra não esteja cadastrada na API de significados, a página será recarregada automaticamente para procurar outra palavra.
