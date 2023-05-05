@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 27%, rgba(0,212,255,1) 47%, rgba(8,40,141,1) 84%);
+    background-repeat: no-repeat;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.quadro{
+    margin-top: 1%;
+    color: white;
+    border: gray solid 1px;
+    border-radius: 20px;
+    background-color: black;
+    padding: 2rem;
+}
