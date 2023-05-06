@@ -16,3 +16,6 @@ Eu não tenho dicionário em casa (ou esconderam de mim), então fiz um código 
 1. Acesse a página (A palavra será carregada automaticamente e será mostrado o significado automaticamente);
 obs.: Caso a palavra não esteja cadastrada na API de significados, a página será recarregada automaticamente para procurar outra palavra.
 2. Caso queira saber sobre outra palavra, recarregue a página novamente.
+
+## Versão
+1.2.0
